@@ -25,10 +25,9 @@ El objetivo central es fortalecer la sensibilidad tecnológica de la comunidad f
    Documentar cada experiencia y hallazgo en un formato estructurado para que cualquier persona que se una al mundo de los agentes tenga acceso a una base de conocimientos rica y clara. Esto permitirá a nuevas generaciones de entusiastas y profesionales abordar rápidamente los agentes, entenderlos y utilizarlos con confianza.
  [Lineamiento documentación][lineamiento-documentacion]
 
----
-
 La documentación será uno de los pilares fundamentales de esta iniciativa, sirviendo como un legado para la comunidad. A través de un repositorio bien organizado y estandarizado, aseguraremos que las lecciones aprendidas, los ejemplos prácticos y las mejores prácticas estén al alcance de todos. De esta forma, no solo exploramos, sino que también dejamos un camino trazado para aquellos que deseen continuar o ampliar esta labor.
 
+---
 
 ## **Estado Actual del Proyecto**
 
@@ -115,6 +114,6 @@ Si tienes dudas, sugerencias o quieres unirte a la iniciativa, comunícate a tra
 
 
 <!-- Links -->
-[grupo-wp]: [https://chat.openai.com/g/g-bQu7DJ8cd-somos-tribu-ia-colombia](https://chat.whatsapp.com/Kxi3ftAYymLJ79YbYR6vXm)
-[directorio-agentes]: [https://forms.gle/tRytHcxqXY2ddWG3A](https://docs.google.com/spreadsheets/d/1vW9ngNpA5UQQTlkCPvdfAoXY3p_Omfj_jZ_d6H1jKik/edit?gid=1712477249#gid=1712477249)
+[grupo-wp]: https://chat.openai.com/g/g-bQu7DJ8cd-somos-tribu-ia-colombia](https://chat.whatsapp.com/Kxi3ftAYymLJ79YbYR6vXm
+[directorio-agentes]: https://forms.gle/tRytHcxqXY2ddWG3A](https://docs.google.com/spreadsheets/d/1vW9ngNpA5UQQTlkCPvdfAoXY3p_Omfj_jZ_d6H1jKik/edit?gid=1712477249#gid=1712477249
 [lineamiento-documentacion]: https://github.com/tribu-ia/documentacion-investigacion-agentes-ia
