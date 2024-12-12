@@ -116,4 +116,4 @@ Si tienes dudas, sugerencias o quieres unirte a la iniciativa, comunícate a tra
 <!-- Links -->
 [grupo-wp]: https://chat.openai.com/g/g-bQu7DJ8cd-somos-tribu-ia-colombia](https://chat.whatsapp.com/Kxi3ftAYymLJ79YbYR6vXm
 [directorio-agentes]: https://forms.gle/tRytHcxqXY2ddWG3A](https://docs.google.com/spreadsheets/d/1vW9ngNpA5UQQTlkCPvdfAoXY3p_Omfj_jZ_d6H1jKik/edit?gid=1712477249#gid=1712477249
-[lineamiento-documentacion]: https://github.com/tribu-ia/documentacion-investigacion-agentes-ia
+[lineamiento-documentacion]: https://github.com/tribu-ia/.github/blob/main/LINEAMIENTO_DOCUMENTACION_AGENTES.md
