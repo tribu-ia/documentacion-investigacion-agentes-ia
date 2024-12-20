@@ -10,7 +10,8 @@ La propuesta es simple: cada participante elige un agente (o framework relaciona
 
 ## **Objetivo de la Iniciativa**
 
-El objetivo central es fortalecer la sensibilidad tecnológica de la comunidad frente a las últimas tendencias en agentes de IA. La idea es que, mediante la exploración práctica y colectiva, podamos:
+El objetivo central es formar un criterio sólido sobre los frameworks y productos basados en agentes de IA, con el fin de desarrolar la capacidad de diseñar nuevas soluciones agénticas que resuelvan problemas reales de nuestras startups/empresas/instituciones/negocios, 
+generando valor diferencial.fortalecer la sensibilidad tecnológica de la comunidad frente a las últimas tendencias en agentes de IA adicional, mediante la exploración práctica y colectiva, podamos:
 
 1. **Descubrir funcionalidades útiles:**  
    Comprender las ventajas, limitaciones y casos de uso de diferentes agentes.
@@ -114,6 +115,6 @@ Si tienes dudas, sugerencias o quieres unirte a la iniciativa, comunícate a tra
 
 
 <!-- Links -->
-[grupo-wp]: https://chat.openai.com/g/g-bQu7DJ8cd-somos-tribu-ia-colombia](https://chat.whatsapp.com/Kxi3ftAYymLJ79YbYR6vXm
+[grupo-wp]: https://chat.whatsapp.com/JX7ctC1P16s2hfoYrcJ0a9
 [directorio-agentes]: https://forms.gle/tRytHcxqXY2ddWG3A](https://docs.google.com/spreadsheets/d/1vW9ngNpA5UQQTlkCPvdfAoXY3p_Omfj_jZ_d6H1jKik/edit?gid=1712477249#gid=1712477249
 [lineamiento-documentacion]: https://github.com/tribu-ia/.github/blob/main/LINEAMIENTO_DOCUMENTACION_AGENTES.md
