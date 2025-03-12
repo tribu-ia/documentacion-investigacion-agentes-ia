@@ -1,0 +1,63 @@
+user_story_task:
+  description: >
+    Como Product Owner (PO) debe encargarse de realizar las siguientes tareas:
+    1. Crea una historia de usuario basada en: {topic}    
+    2. Garantiza que el equipo técnico (Software Architect y QA Analyst) comprenda completamente la historia de 
+    usuario, su valor para el negocio y los resultados esperados. Además, establecer un punto de partida claro para 
+    el refinamiento, donde los otros agentes puedan aportar escenarios técnicos y de calidad.
+  expected_output: >
+    1. Presentar el contexto de negocio: a) Describir el problema o necesidad que la historia de usuario busca 
+    resolver. b) Explicar el impacto esperado de la funcionalidad en el usuario final y en los objetivos del negocio.
+    2. Desglose de la historia de usuario: Leer o mostrar la redacción de la historia de usuario utilizando el 
+    formato estándar, ejemplo: Como [rol del usuario] Quiero [acción o funcionalidad específica] Para [lograr un 
+    beneficio o propósito específico].
+    3. Definir los criterios de aceptación iniciales: Enumerar los criterios de aceptación que describen cuándo 
+    la historia de usuario será considerada como "completa". Asegurarse de que los criterios sean claros, 
+    específicos y medibles.
+    4. Mención de restricciones o dependencias conocidas
+  agent: product_owner_agent
+
+testing_scenarios_task:
+  description: >
+    Como Ingeniero de Aseguramiento de Calidad (QA) debe encargarse de realizar las siguientes tareas:
+    1. Validar que la propuesta presentada por el Product Owner (PO) sea clara, completa, y testable. Identificar 
+    cualquier información faltante o ambigua. Proponer ajustes  o adiciones a los criterios de aceptación, si es 
+    necesario. 
+    2. Definir escenarios de prueba, datos de prueba, y estrategias para garantizar la calidad del producto. 
+    3. Describir esta tarea utilizando el formato Gherkin, común en metodologías BDD (Behavior Driven Development).
+  expected_output: >
+    1. Definición de escenarios de prueba escritos en Gherkin, uno o varios según se requiera para las siguientes
+    categorías: a) Escenarios positivos : Pruebas que confirman que el sistema funciona como se espera bajo 
+    condiciones normales. b) Escenarios negativos: Pruebas que verifican cómo el sistema maneja entradas o 
+    situaciones no esperadas, y c) Casos borde: Pruebas para los límites de los datos o situaciones extremas.
+    2. Preparación de datos de prueba: Crear un conjunto de datos que cubra inputs válidos e inválidos para cada
+    escenario de prueba definido. Documentar el formato, los valores, y la finalidad de cada conjunto de datos.
+    3. Estrategia de pruebas: Decidir cuáles pruebas deben ser automatizadas y cuáles ejecutadas manualmente.
+  agent: qa_engineer_agent
+
+tech_feasibility_task:
+  description: >
+    Como Ingeniero Senior de Software debe encargarse de realizar las siguientes tareas:
+    1. Revisión de la historia de usuario: Validar que los requisitos funcionales y no funcionales sean viables 
+    desde un punto de vista técnico. Revisar los criterios de aceptación para asegurar que puedan ser implementados 
+    dentro de las capacidades actuales del sistema.
+    2. Evaluación de dependencias técnicas: Identificar qué servicios, módulos o APIs están involucrados en la 
+    implementación. Analizar posibles dependencias externas, como integraciones con terceros, y verificar su 
+    disponibilidad.
+    3. Definición de restricciones técnicas: a) Establecer las limitaciones del sistema en términos de: 
+    1) Rendimiento: tiempos de respuesta, concurrencia. 2) Escalabilidad: capacidad de manejar un aumento 
+    en el uso. 3) Seguridad: estándares de protección de datos. b) Documentar estas restricciones para que el equipo 
+    las tenga en cuenta durante el desarrollo.
+    4. Propuesta de soluciones técnicas: Proponer arquitecturas o patrones de diseño que faciliten la 
+    implementación. Sugerir tecnologías, herramientas o enfoques que sean apropiados. Considerar el impacto a 
+    largo plazo de las decisiones técnicas.
+  expected_output: >
+    1. Informe técnico detallado: Validación de la viabilidad técnica de la historia de usuario. Identificación de 
+    riesgos técnicos y cómo mitigarlos. Lista de dependencias técnicas necesarias para la implementación. Restricciones 
+    técnicas documentadas.
+    2. Propuestas de soluciones técnicas: Arquitectura recomendada para implementar la funcionalidad. Herramientas, 
+    frameworks o tecnologías sugeridas.Plan de implementación técnica.
+    3. Retroalimentación al equipo: Ajustes o clarificaciones necesarias en los requisitos. Comunicación de posibles 
+    bloqueos o dependencias que deban resolverse. Sesión de retroalimentación programada con el equipo para discutir 
+    las observaciones.
+  agent: senior_engineer_agent
